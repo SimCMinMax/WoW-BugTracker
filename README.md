@@ -38,7 +38,7 @@ See this [report about a Rogue item bug](https://github.com/SimCMinMax/WoW-BugTr
 ## Statement of Intent
 
 Similar to what is done for [GitHub here](https://github.com/isaacs/github), the [SimCMinMax](https://github.com/SimCMinMax) community clearly wants to help both the people playing the game and the company running it.
-The biggest issue with bugs is how widely they aren't spread/known, this is an initiative to let everyone know easily and quickly what's going on. It has always been my philosophy with the Rogue community since I've joined it, to be transparent. So, I've decided to expand what we do in this sub-community to the whole WoW community, the same way we made available our simulations made for Rogues to every Classes on [HeroDamage](https://www.herodamage.com/).
+The biggest issue with bugs is how widely they aren't spread/known, this is an initiative to let everyone know easily and quickly what's going on. It has always been my philosophy with the Rogue community since I've joined it, to be transparent. So, I've decided to expand what we do in this sub-community (see example above) to the whole WoW community.
 
 ```
 Trolling, disparaging remarks about Blizzard, or even just unproductive kvetching, will not be tolerated. Those comments will be deleted and the users blocked.

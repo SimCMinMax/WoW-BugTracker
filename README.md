@@ -33,3 +33,7 @@ Several labels are available, **you should use them** in order to reduce the amo
 
 Before opening any report, you should do a quick research to **see if your bug isn't already reported**.
 If you have additionnal informations about it, please comment the already opened issue.
+
+## Example:
+
+See this [report about a Rogue item bug](https://github.com/SimCMinMax/WoW-BugTracker/issues/1).

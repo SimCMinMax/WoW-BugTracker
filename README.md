@@ -26,13 +26,9 @@ Write different reports for each bug.
 
 If your bug seems to be related to your setup, **include some informations about it**.
 
-### 4) Labels:
+### 4) Duplicate:
 
-Several labels are available, **you should use them** in order to reduce the amount of work to process the report.
-
-### 5) Duplicate:
-
-Before opening any report, you should do a quick research to **see if your bug isn't already reported**.
+Before opening any report, you should do a quick research to **see if your bug isn't already reported** using the [labels](https://github.com/SimCMinMax/WoW-BugTracker/labels).
 If you have additionnal informations about it, please comment the already opened issue.
 
 ## Example:

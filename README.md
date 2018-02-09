@@ -18,9 +18,9 @@ Do not assume or skip any reproducing step. A step-by-step description of the is
 
 ### 2) Specific:
 
-Do not write an essay about the problem. **Be specific and to the point**. Try to summarize the problem in minimum words yet in effective way.
-Do not combine multiple problems even if they seem to be similar.
-Write different reports for each problem.
+Do not write an essay about the bug. **Be specific and to the point**. Try to summarize it in minimum words yet in effective way.
+Do not combine multiple bugs even if they seem to be similar.
+Write different reports for each bug.
 
 ### 3) Environment Details:
 

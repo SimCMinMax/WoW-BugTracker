@@ -1,5 +1,5 @@
 **Game Version:**
-> 8.0.1.25976 (Alpha)
+> 8.0.1 Alpha Build 25976
 
 **Description:**
 > What your bug is about ?

@@ -28,7 +28,7 @@ If your bug seems to be related to your setup, **include some informations about
 
 ### 4) Duplicate:
 
-Before opening any report, you should do a quick research to **see if your bug isn't already reported** using the [labels](https://github.com/SimCMinMax/WoW-BugTracker/labels).
+Before opening any report, you should do a quick research to **see if your bug isn't already reported** using the [labels](https://github.com/SimCMinMax/WoW-BugTracker/labels) or the [milestones](https://github.com/SimCMinMax/WoW-BugTracker/milestones).
 If you have additionnal informations about it, please comment the already opened issue.
 
 ## Example:

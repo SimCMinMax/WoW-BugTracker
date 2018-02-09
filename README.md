@@ -1,6 +1,7 @@
 # WoW-BugTracker
 
-This is the unofficial/community issue tracker for the current versions of World of Warcraft.
+This is the unofficial/community issue tracker for the current versions of © World of Warcraft from Blizzard Entertainment.
+This project is run by players and meant to players. Although, it's public so Blizzard can, of course, have a look at.
 If you ever encounter a bug in the game, feel free to open an issue to let others know about it.
 You must fill correctly the template form in order to make your report valid.
 
@@ -37,3 +38,6 @@ If you have additionnal informations about it, please comment the already opened
 ## Example:
 
 See this [report about a Rogue item bug](https://github.com/SimCMinMax/WoW-BugTracker/issues/1).
+
+
+#### All trademarks referenced herein are the properties of their respective owners.

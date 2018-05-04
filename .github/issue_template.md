@@ -1,5 +1,5 @@
 **Game Version:**
-> 8.0.1 Beta Build 26530
+> 8.0.1 Beta Build 26557
 
 **Description:**
 > What is your bug about?

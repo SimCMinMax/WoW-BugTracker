@@ -1,5 +1,6 @@
 **Game Version:**
-> 8.0.1 Beta Build 26970
+> 8.0.1 Live Build 27843
+> 8.1.0 PTR Build 27934
 
 **Description:**
 > What is your bug about?

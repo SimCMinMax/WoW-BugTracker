@@ -5,7 +5,7 @@ This project is run by players and meant to players. Although, it's public so Bl
 If you ever encounter a bug in the game, feel free to open an issue to let others know about it.
 You must fill correctly the template form in order to make your report valid.
 
-#### [View existing issues](https://github.com/SimCMinMax/WoW-BugTracker/issues) or [report a new issue](https://github.com/SimCMinMax/WoW-BugTracker/issues/new).
+#### [View existing issues](https://github.com/SimCMinMax/WoW-BugTracker/issues) or [report a new issue](https://github.com/SimCMinMax/WoW-BugTracker/issues/new/choose).
 
 ## How to create a good Bug Report?
 

@@ -2,7 +2,7 @@
 name: Beta
 about: Create a report for the Shadowlands Beta version
 title: ''
-labels: 0-Beta 2-Shadowlands
+labels: 0-Beta, 2-Shadowlands
 assignees: ''
 
 ---

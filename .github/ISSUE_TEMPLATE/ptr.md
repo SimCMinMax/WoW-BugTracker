@@ -2,22 +2,19 @@
 name: PTR
 about: Create a report for PTR version
 title: ''
-labels: 1-PTR
+labels: 1-PTR, 2-Shadowlands
 assignees: ''
 
 ---
 
 **Game Version:**
-> 8.3.0 PTR Build 33775
+> 9.0.1 PTR Build 35522
 
 **Description:**
 > What is your bug about?
 
-**Details:**
-> Try to explain the bug.
-
 **Logs, Images, Videos**
-> Please attach Logs, Images, and/or a Video of the bug.
+> Please attach Logs, Images, and/or a Video of the bug if applicable.
 
 **Reproducible:**
 > Examples: yes/rarely

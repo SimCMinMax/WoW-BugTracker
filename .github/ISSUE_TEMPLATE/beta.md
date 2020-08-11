@@ -13,11 +13,8 @@ assignees: ''
 **Description:**
 > What is your bug about?
 
-**Details:**
-> Try to explain the bug.
-
 **Logs, Images, Videos**
-> Please attach Logs, Images, and/or a Video of the bug.
+> Please attach Logs, Images, and/or a Video of the bug if applicable.
 
 **Reproducible:**
 > Examples: yes/rarely

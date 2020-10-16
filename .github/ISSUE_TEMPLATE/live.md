@@ -2,7 +2,7 @@
 name: Live
 about: Create a report for Live version
 title: ''
-labels: 2-BfA
+labels: 2-Shadowlands
 assignees: ''
 
 ---

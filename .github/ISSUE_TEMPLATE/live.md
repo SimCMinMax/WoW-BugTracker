@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Game Version:**
-> 9.0.2 live Build 36753
+> 9.0.5 live Build 38134
 
 **Description:**
 > What is your bug about?

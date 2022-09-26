@@ -1,14 +1,14 @@
 ---
 name: Beta
-about: Create a report for the Shadowlands Beta version
+about: Create a report for the Dragonflight Beta version
 title: ''
-labels: 0-Beta, 2-Shadowlands
+labels: 0-Beta, 2-Dragonflight
 assignees: ''
 
 ---
 
 **Game Version:**
-> 9.0.2 beta Build 36294
+> 10.0.2 beta Build 45746
 
 **Description:**
 > What is your bug about?

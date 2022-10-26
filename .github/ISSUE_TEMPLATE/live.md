@@ -2,13 +2,13 @@
 name: Live
 about: Create a report for Live version
 title: ''
-labels: 2-Shadowlands
+labels: 2-Dragonflight
 assignees: ''
 
 ---
 
 **Game Version:**
-> 9.1.0 live Build 39185
+> 10.0.0 live Build 46293
 
 **Description:**
 > What is your bug about?

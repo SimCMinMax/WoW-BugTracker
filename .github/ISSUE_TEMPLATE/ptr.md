@@ -2,13 +2,13 @@
 name: PTR
 about: Create a report for PTR version
 title: ''
-labels: 1-PTR, 2-Shadowlands
+labels: 1-PTR
 assignees: ''
 
 ---
 
 **Game Version:**
-> 10.0.2 PTR Build 46801
+> 10.0.7 PTR Build 47910
 
 **Description:**
 > What is your bug about?

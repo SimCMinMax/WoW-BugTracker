@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Game Version:**
-> 10.0.7 PTR Build 47910
+> 10.2.0 PTR Build 51239
 
 **Description:**
 > What is your bug about?

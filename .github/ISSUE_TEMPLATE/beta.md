@@ -2,13 +2,13 @@
 name: Beta
 about: Create a report for the Dragonflight Beta version
 title: ''
-labels: 0-Beta, 2-Dragonflight
+labels: 0-Beta, 2-The War Within
 assignees: ''
 
 ---
 
 **Game Version:**
-> 10.0.2 beta Build 46801
+> 11.0.0 beta Build 55120
 
 **Description:**
 > What is your bug about?

@@ -1,6 +1,6 @@
 ---
 name: Beta
-about: Create a report for the Dragonflight Beta version
+about: Create a report for The War Within Beta version
 title: ''
 labels: 0-Beta, 2-The War Within
 assignees: ''

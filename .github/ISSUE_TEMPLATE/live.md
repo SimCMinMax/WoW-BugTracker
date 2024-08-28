@@ -2,13 +2,13 @@
 name: Live
 about: Create a report for Live version
 title: ''
-labels: 2-Dragonflight
+labels: 2-The War Within
 assignees: ''
 
 ---
 
 **Game Version:**
-> 10.2.0 live Build 52106
+> 11.0.2 live Build 56313
 
 **Description:**
 > What is your bug about?

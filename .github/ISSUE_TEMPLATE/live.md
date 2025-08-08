@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Game Version:**
-> 11.0.2 live Build 56313
+> 11.2.0 live Build 62438
 
 **Description:**
 > What is your bug about?

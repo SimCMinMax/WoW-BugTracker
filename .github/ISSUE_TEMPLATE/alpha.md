@@ -2,13 +2,13 @@
 name: Alpha
 about: Create a report for Alpha version
 title: ''
-labels: 0-Alpha
+labels: 0-Alpha, 2-Midnight
 assignees: ''
 
 ---
 
 **Game Version:**
-> 11.0.0 alpha Build 54499
+> 12.0.0 alpha Build 63534
 
 **Description:**
 > What is your bug about?

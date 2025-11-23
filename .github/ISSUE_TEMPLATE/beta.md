@@ -2,13 +2,13 @@
 name: Beta
 about: Create a report for The War Within Beta version
 title: ''
-labels: 0-Beta, 2-The War Within
+labels: 0-Beta, 2-Midnight
 assignees: ''
 
 ---
 
 **Game Version:**
-> 11.0.0 beta Build 55120
+> 12.0.0 beta Build 64529
 
 **Description:**
 > What is your bug about?

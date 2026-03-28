@@ -2,13 +2,13 @@
 name: Live
 about: Create a report for Live version
 title: ''
-labels: 2-The War Within
+labels: 2-Midnight
 assignees: ''
 
 ---
 
 **Game Version:**
-> 11.2.0 live Build 62438
+> 12.0.1 live Build 66709
 
 **Description:**
 > What is your bug about?
